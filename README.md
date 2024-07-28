@@ -1,2 +1,2 @@
-# Frontend_HTML_Task1
-HTML and Basic Tags
+# Frontend_HTML_Task2
+Applying Styling and Form Creation to an HTML Webpage
